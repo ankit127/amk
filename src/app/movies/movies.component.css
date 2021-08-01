@@ -1,0 +1,141 @@
+ .container-fluid1{
+  width: auto;
+  height: 350px;
+  background-color:#0f0617;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 3px;
+ }
+
+.child1{
+    width: 300px;
+    height: 330px;
+    background-color: #0f0617;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-image: url('https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-munnamichael/portrait/1920x7702120016062.jpg');
+    background-repeat: no-repeat;
+    background-size: 300px auto; 
+    margin: 3px;
+}
+
+.child2{
+    width: 300px;
+    height: 330px;
+    background-color: #0f0617;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-image: url('https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-movie_466418637/portrait/00movie46641863291857094.jpg');
+    background-repeat: no-repeat;
+    background-size: 300px auto; 
+    margin: 3px;
+}
+
+.child2{
+    width: 300px;
+    height: 330px;
+    background-color: #0f0617;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-image: url('https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-movie_466418637/portrait/00movie46641863291857094.jpg');
+    background-repeat: no-repeat;
+    background-size: 300px auto; 
+    margin: 3px;
+}
+.child3{
+    width: 300px;
+    height: 330px;
+    background-color: #0f0617;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-image: url('https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-271933/portrait/1920x7702019510014.jpg');
+    background-repeat: no-repeat;
+    background-size: 300px auto; 
+    margin: 3px;
+}
+.child4{
+    width: 300px;
+    height: 330px;
+    background-color: #0f0617;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-image: url('https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-2518/portrait/no1businessman1920x7708872bfd519ec44558247b71946683435.jpg');
+    background-repeat: no-repeat;
+    background-size: 300px auto; 
+    margin: 3px;
+}
+
+.child5{
+    width: 300px;
+    height: 330px;
+    background-color: #0f0617;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-image: url('https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-1z51113/portrait/1920x7704058c6181a3e45038cbc8c6b70f908ab.jpg');
+    background-repeat: no-repeat;
+    background-size: 300px auto; 
+    margin: 3px;
+}
+.child6{
+    width: 300px;
+    height: 330px;
+    background-color: #0f0617;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-image: url('https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-2526/portrait/1920x770_1438712499.jpg');
+    background-repeat: no-repeat;
+    background-size: 300px auto; 
+    margin: 3px;
+}
+
+.container-fluid2{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #0f0617;
+    
+}
+
+.childA{
+    width: 50%;
+    height: 50px;
+}
+
+.childB{
+    width: 50%;
+    height: 50px;
+}
+
+#hw:hover{
+    transform: scale(1.02);
+    opacity: 0.5;
+    fill-opacity: black;
+}
+
+.content{
+    width: 200px;
+    height: 28px;
+    margin-top: 300px;
+    margin-left: 30px;
+    color: lightslategray;
+    text-align: center;
+    font-size: 100px;
+    background-color: transparent;
+}
